@@ -8,6 +8,10 @@ test 3
 test another push
 
 test 4
+
+test 5 
+it should not push
+
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
 
 ```
