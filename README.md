@@ -4,15 +4,8 @@ Strapi comes with a full featured [Command Line Interface](https://docs.strapi.i
 
 ### `develop`
 
-test 3
-test another push
-
-test 4
-
-test 5 
-it should not push
-
-test 6 it should push
+test 7
+it should deploy
 
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
 
